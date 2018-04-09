@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CFD888F5204F8DC700DBB486 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD888F4204F8DC700DBB486 /* AppDelegate.swift */; };
-		CFD888F7204F8DC700DBB486 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD888F6204F8DC700DBB486 /* ViewController.swift */; };
-		CFD888FA204F8DC700DBB486 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD888F8204F8DC700DBB486 /* Main.storyboard */; };
-		CFD888FC204F8DC700DBB486 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFD888FB204F8DC700DBB486 /* Assets.xcassets */; };
-		CFD888FF204F8DC700DBB486 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */; };
+		CFF0C1F62058C07900007D20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF0C1F52058C07900007D20 /* AppDelegate.swift */; };
+		CFF0C1F82058C07900007D20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFF0C1F72058C07900007D20 /* ViewController.swift */; };
+		CFF0C1FB2058C07900007D20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFF0C1F92058C07900007D20 /* Main.storyboard */; };
+		CFF0C1FD2058C07900007D20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFF0C1FC2058C07900007D20 /* Assets.xcassets */; };
+		CFF0C2002058C07900007D20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFF0C1FE2058C07900007D20 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ji_Firstapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CFD888F4204F8DC700DBB486 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CFD888F6204F8DC700DBB486 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CFD888F9204F8DC700DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CFD888FB204F8DC700DBB486 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CFD888FE204F8DC700DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CFD88900204F8DC700DBB486 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFF0C1F22058C07900007D20 /* Ji_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ji_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFF0C1F52058C07900007D20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CFF0C1F72058C07900007D20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CFF0C1FA2058C07900007D20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CFF0C1FC2058C07900007D20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CFF0C1FF2058C07900007D20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CFF0C2012058C07900007D20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CFD888EE204F8DC700DBB486 /* Frameworks */ = {
+		CFF0C1EF2058C07900007D20 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CFD888E8204F8DC700DBB486 = {
+		CFF0C1E92058C07900007D20 = {
 			isa = PBXGroup;
 			children = (
-				CFD888F3204F8DC700DBB486 /* Ji_Firstapp */,
-				CFD888F2204F8DC700DBB486 /* Products */,
+				CFF0C1F42058C07900007D20 /* Ji_app */,
+				CFF0C1F32058C07900007D20 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CFD888F2204F8DC700DBB486 /* Products */ = {
+		CFF0C1F32058C07900007D20 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */,
+				CFF0C1F22058C07900007D20 /* Ji_app.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CFD888F3204F8DC700DBB486 /* Ji_Firstapp */ = {
+		CFF0C1F42058C07900007D20 /* Ji_app */ = {
 			isa = PBXGroup;
 			children = (
-				CFD888F4204F8DC700DBB486 /* AppDelegate.swift */,
-				CFD888F6204F8DC700DBB486 /* ViewController.swift */,
-				CFD888F8204F8DC700DBB486 /* Main.storyboard */,
-				CFD888FB204F8DC700DBB486 /* Assets.xcassets */,
-				CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */,
-				CFD88900204F8DC700DBB486 /* Info.plist */,
+				CFF0C1F52058C07900007D20 /* AppDelegate.swift */,
+				CFF0C1F72058C07900007D20 /* ViewController.swift */,
+				CFF0C1F92058C07900007D20 /* Main.storyboard */,
+				CFF0C1FC2058C07900007D20 /* Assets.xcassets */,
+				CFF0C1FE2058C07900007D20 /* LaunchScreen.storyboard */,
+				CFF0C2012058C07900007D20 /* Info.plist */,
 			);
-			path = Ji_Firstapp;
+			path = Ji_app;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CFD888F0204F8DC700DBB486 /* Ji_Firstapp */ = {
+		CFF0C1F12058C07900007D20 /* Ji_app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CFD88903204F8DC700DBB486 /* Build configuration list for PBXNativeTarget "Ji_Firstapp" */;
+			buildConfigurationList = CFF0C2042058C07900007D20 /* Build configuration list for PBXNativeTarget "Ji_app" */;
 			buildPhases = (
-				CFD888ED204F8DC700DBB486 /* Sources */,
-				CFD888EE204F8DC700DBB486 /* Frameworks */,
-				CFD888EF204F8DC700DBB486 /* Resources */,
+				CFF0C1EE2058C07900007D20 /* Sources */,
+				CFF0C1EF2058C07900007D20 /* Frameworks */,
+				CFF0C1F02058C07900007D20 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Ji_Firstapp;
-			productName = Ji_Firstapp;
-			productReference = CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */;
+			name = Ji_app;
+			productName = Ji_app;
+			productReference = CFF0C1F22058C07900007D20 /* Ji_app.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CFD888E9204F8DC700DBB486 /* Project object */ = {
+		CFF0C1EA2058C07900007D20 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = user_11;
 				TargetAttributes = {
-					CFD888F0204F8DC700DBB486 = {
+					CFF0C1F12058C07900007D20 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = CFD888EC204F8DC700DBB486 /* Build configuration list for PBXProject "Ji_Firstapp" */;
+			buildConfigurationList = CFF0C1ED2058C07900007D20 /* Build configuration list for PBXProject "Ji_app" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = CFD888E8204F8DC700DBB486;
-			productRefGroup = CFD888F2204F8DC700DBB486 /* Products */;
+			mainGroup = CFF0C1E92058C07900007D20;
+			productRefGroup = CFF0C1F32058C07900007D20 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CFD888F0204F8DC700DBB486 /* Ji_Firstapp */,
+				CFF0C1F12058C07900007D20 /* Ji_app */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CFD888EF204F8DC700DBB486 /* Resources */ = {
+		CFF0C1F02058C07900007D20 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFD888FF204F8DC700DBB486 /* LaunchScreen.storyboard in Resources */,
-				CFD888FC204F8DC700DBB486 /* Assets.xcassets in Resources */,
-				CFD888FA204F8DC700DBB486 /* Main.storyboard in Resources */,
+				CFF0C2002058C07900007D20 /* LaunchScreen.storyboard in Resources */,
+				CFF0C1FD2058C07900007D20 /* Assets.xcassets in Resources */,
+				CFF0C1FB2058C07900007D20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CFD888ED204F8DC700DBB486 /* Sources */ = {
+		CFF0C1EE2058C07900007D20 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFD888F7204F8DC700DBB486 /* ViewController.swift in Sources */,
-				CFD888F5204F8DC700DBB486 /* AppDelegate.swift in Sources */,
+				CFF0C1F82058C07900007D20 /* ViewController.swift in Sources */,
+				CFF0C1F62058C07900007D20 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CFD888F8204F8DC700DBB486 /* Main.storyboard */ = {
+		CFF0C1F92058C07900007D20 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CFD888F9204F8DC700DBB486 /* Base */,
+				CFF0C1FA2058C07900007D20 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */ = {
+		CFF0C1FE2058C07900007D20 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CFD888FE204F8DC700DBB486 /* Base */,
+				CFF0C1FF2058C07900007D20 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		CFD88901204F8DC700DBB486 /* Debug */ = {
+		CFF0C2022058C07900007D20 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -220,7 +220,7 @@
 			};
 			name = Debug;
 		};
-		CFD88902204F8DC700DBB486 /* Release */ = {
+		CFF0C2032058C07900007D20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,30 +270,28 @@
 			};
 			name = Release;
 		};
-		CFD88904204F8DC700DBB486 /* Debug */ = {
+		CFF0C2052058C07900007D20 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Ji_Firstapp/Info.plist;
+				INFOPLIST_FILE = Ji_app/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-Firstapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		CFD88905204F8DC700DBB486 /* Release */ = {
+		CFF0C2062058C07900007D20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Ji_Firstapp/Info.plist;
+				INFOPLIST_FILE = Ji_app/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-Firstapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -303,25 +301,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CFD888EC204F8DC700DBB486 /* Build configuration list for PBXProject "Ji_Firstapp" */ = {
+		CFF0C1ED2058C07900007D20 /* Build configuration list for PBXProject "Ji_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CFD88901204F8DC700DBB486 /* Debug */,
-				CFD88902204F8DC700DBB486 /* Release */,
+				CFF0C2022058C07900007D20 /* Debug */,
+				CFF0C2032058C07900007D20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CFD88903204F8DC700DBB486 /* Build configuration list for PBXNativeTarget "Ji_Firstapp" */ = {
+		CFF0C2042058C07900007D20 /* Build configuration list for PBXNativeTarget "Ji_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CFD88904204F8DC700DBB486 /* Debug */,
-				CFD88905204F8DC700DBB486 /* Release */,
+				CFF0C2052058C07900007D20 /* Debug */,
+				CFF0C2062058C07900007D20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CFD888E9204F8DC700DBB486 /* Project object */;
+	rootObject = CFF0C1EA2058C07900007D20 /* Project object */;
 }

@@ -1,8 +1,8 @@
- //
-//  ViewController.swift
-//  Ji_Firstapp
 //
-//  Created by user_11 on 2018/3/7.
+//  ViewController.swift
+//  Ji_app
+//
+//  Created by user_11 on 2018/3/14.
 //  Copyright © 2018年 user_11. All rights reserved.
 //
 

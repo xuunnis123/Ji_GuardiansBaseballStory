@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CFD888F5204F8DC700DBB486 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD888F4204F8DC700DBB486 /* AppDelegate.swift */; };
-		CFD888F7204F8DC700DBB486 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD888F6204F8DC700DBB486 /* ViewController.swift */; };
-		CFD888FA204F8DC700DBB486 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD888F8204F8DC700DBB486 /* Main.storyboard */; };
-		CFD888FC204F8DC700DBB486 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFD888FB204F8DC700DBB486 /* Assets.xcassets */; };
-		CFD888FF204F8DC700DBB486 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */; };
+		CFD88913204FC27800DBB486 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD88912204FC27800DBB486 /* AppDelegate.swift */; };
+		CFD88915204FC27800DBB486 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD88914204FC27800DBB486 /* ViewController.swift */; };
+		CFD88918204FC27800DBB486 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD88916204FC27800DBB486 /* Main.storyboard */; };
+		CFD8891A204FC27800DBB486 /*  美麗新世界 in Resources */ = {isa = PBXBuildFile; fileRef = CFD88919204FC27800DBB486 /*  美麗新世界 */; };
+		CFD8891D204FC27800DBB486 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD8891B204FC27800DBB486 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ji_Firstapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CFD888F4204F8DC700DBB486 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CFD888F6204F8DC700DBB486 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CFD888F9204F8DC700DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CFD888FB204F8DC700DBB486 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CFD888FE204F8DC700DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CFD88900204F8DC700DBB486 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFD8890F204FC27800DBB486 /* asfd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = asfd.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFD88912204FC27800DBB486 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CFD88914204FC27800DBB486 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CFD88917204FC27800DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CFD88919204FC27800DBB486 /*  美麗新世界 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = " 美麗新世界"; sourceTree = "<group>"; };
+		CFD8891C204FC27800DBB486 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CFD8891E204FC27800DBB486 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CFD888EE204F8DC700DBB486 /* Frameworks */ = {
+		CFD8890C204FC27800DBB486 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CFD888E8204F8DC700DBB486 = {
+		CFD88906204FC27800DBB486 = {
 			isa = PBXGroup;
 			children = (
-				CFD888F3204F8DC700DBB486 /* Ji_Firstapp */,
-				CFD888F2204F8DC700DBB486 /* Products */,
+				CFD88911204FC27800DBB486 /* asfd */,
+				CFD88910204FC27800DBB486 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CFD888F2204F8DC700DBB486 /* Products */ = {
+		CFD88910204FC27800DBB486 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */,
+				CFD8890F204FC27800DBB486 /* asfd.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CFD888F3204F8DC700DBB486 /* Ji_Firstapp */ = {
+		CFD88911204FC27800DBB486 /* asfd */ = {
 			isa = PBXGroup;
 			children = (
-				CFD888F4204F8DC700DBB486 /* AppDelegate.swift */,
-				CFD888F6204F8DC700DBB486 /* ViewController.swift */,
-				CFD888F8204F8DC700DBB486 /* Main.storyboard */,
-				CFD888FB204F8DC700DBB486 /* Assets.xcassets */,
-				CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */,
-				CFD88900204F8DC700DBB486 /* Info.plist */,
+				CFD88912204FC27800DBB486 /* AppDelegate.swift */,
+				CFD88914204FC27800DBB486 /* ViewController.swift */,
+				CFD88916204FC27800DBB486 /* Main.storyboard */,
+				CFD88919204FC27800DBB486 /*  美麗新世界 */,
+				CFD8891B204FC27800DBB486 /* LaunchScreen.storyboard */,
+				CFD8891E204FC27800DBB486 /* Info.plist */,
 			);
-			path = Ji_Firstapp;
+			path = asfd;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CFD888F0204F8DC700DBB486 /* Ji_Firstapp */ = {
+		CFD8890E204FC27800DBB486 /* asfd */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CFD88903204F8DC700DBB486 /* Build configuration list for PBXNativeTarget "Ji_Firstapp" */;
+			buildConfigurationList = CFD88921204FC27800DBB486 /* Build configuration list for PBXNativeTarget "asfd" */;
 			buildPhases = (
-				CFD888ED204F8DC700DBB486 /* Sources */,
-				CFD888EE204F8DC700DBB486 /* Frameworks */,
-				CFD888EF204F8DC700DBB486 /* Resources */,
+				CFD8890B204FC27800DBB486 /* Sources */,
+				CFD8890C204FC27800DBB486 /* Frameworks */,
+				CFD8890D204FC27800DBB486 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Ji_Firstapp;
-			productName = Ji_Firstapp;
-			productReference = CFD888F1204F8DC700DBB486 /* Ji_Firstapp.app */;
+			name = asfd;
+			productName = asfd;
+			productReference = CFD8890F204FC27800DBB486 /* asfd.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CFD888E9204F8DC700DBB486 /* Project object */ = {
+		CFD88907204FC27800DBB486 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = user_11;
 				TargetAttributes = {
-					CFD888F0204F8DC700DBB486 = {
+					CFD8890E204FC27800DBB486 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = CFD888EC204F8DC700DBB486 /* Build configuration list for PBXProject "Ji_Firstapp" */;
+			buildConfigurationList = CFD8890A204FC27800DBB486 /* Build configuration list for PBXProject "asfd" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = CFD888E8204F8DC700DBB486;
-			productRefGroup = CFD888F2204F8DC700DBB486 /* Products */;
+			mainGroup = CFD88906204FC27800DBB486;
+			productRefGroup = CFD88910204FC27800DBB486 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CFD888F0204F8DC700DBB486 /* Ji_Firstapp */,
+				CFD8890E204FC27800DBB486 /* asfd */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CFD888EF204F8DC700DBB486 /* Resources */ = {
+		CFD8890D204FC27800DBB486 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFD888FF204F8DC700DBB486 /* LaunchScreen.storyboard in Resources */,
-				CFD888FC204F8DC700DBB486 /* Assets.xcassets in Resources */,
-				CFD888FA204F8DC700DBB486 /* Main.storyboard in Resources */,
+				CFD8891D204FC27800DBB486 /* LaunchScreen.storyboard in Resources */,
+				CFD8891A204FC27800DBB486 /*  美麗新世界 in Resources */,
+				CFD88918204FC27800DBB486 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CFD888ED204F8DC700DBB486 /* Sources */ = {
+		CFD8890B204FC27800DBB486 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CFD888F7204F8DC700DBB486 /* ViewController.swift in Sources */,
-				CFD888F5204F8DC700DBB486 /* AppDelegate.swift in Sources */,
+				CFD88915204FC27800DBB486 /* ViewController.swift in Sources */,
+				CFD88913204FC27800DBB486 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CFD888F8204F8DC700DBB486 /* Main.storyboard */ = {
+		CFD88916204FC27800DBB486 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CFD888F9204F8DC700DBB486 /* Base */,
+				CFD88917204FC27800DBB486 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		CFD888FD204F8DC700DBB486 /* LaunchScreen.storyboard */ = {
+		CFD8891B204FC27800DBB486 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				CFD888FE204F8DC700DBB486 /* Base */,
+				CFD8891C204FC27800DBB486 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		CFD88901204F8DC700DBB486 /* Debug */ = {
+		CFD8891F204FC27800DBB486 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -220,7 +220,7 @@
 			};
 			name = Debug;
 		};
-		CFD88902204F8DC700DBB486 /* Release */ = {
+		CFD88920204FC27800DBB486 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,30 +270,30 @@
 			};
 			name = Release;
 		};
-		CFD88904204F8DC700DBB486 /* Debug */ = {
+		CFD88922204FC27800DBB486 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Ji_Firstapp/Info.plist;
+				INFOPLIST_FILE = asfd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-Firstapp";
+				PRODUCT_BUNDLE_IDENTIFIER = Jix.asfd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		CFD88905204F8DC700DBB486 /* Release */ = {
+		CFD88923204FC27800DBB486 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Ji_Firstapp/Info.plist;
+				INFOPLIST_FILE = asfd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Jix.Ji-Firstapp";
+				PRODUCT_BUNDLE_IDENTIFIER = Jix.asfd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -303,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CFD888EC204F8DC700DBB486 /* Build configuration list for PBXProject "Ji_Firstapp" */ = {
+		CFD8890A204FC27800DBB486 /* Build configuration list for PBXProject "asfd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CFD88901204F8DC700DBB486 /* Debug */,
-				CFD88902204F8DC700DBB486 /* Release */,
+				CFD8891F204FC27800DBB486 /* Debug */,
+				CFD88920204FC27800DBB486 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CFD88903204F8DC700DBB486 /* Build configuration list for PBXNativeTarget "Ji_Firstapp" */ = {
+		CFD88921204FC27800DBB486 /* Build configuration list for PBXNativeTarget "asfd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CFD88904204F8DC700DBB486 /* Debug */,
-				CFD88905204F8DC700DBB486 /* Release */,
+				CFD88922204FC27800DBB486 /* Debug */,
+				CFD88923204FC27800DBB486 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CFD888E9204F8DC700DBB486 /* Project object */;
+	rootObject = CFD88907204FC27800DBB486 /* Project object */;
 }
